@@ -1,5 +1,5 @@
 import create from 'zustand';
-import useMessageStore from './messageStore';
+import useMessageStore from './useMessageStore';
 
 const useTaskStore = create((set) => ({
   tasks: [],
