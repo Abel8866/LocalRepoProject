@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import useMessageStore from '../store/messageStore';
+import useMessageStore from '../store/useMessageStore';
 
 function Snackbar() {
   const [message, setMessage] = useState('');
