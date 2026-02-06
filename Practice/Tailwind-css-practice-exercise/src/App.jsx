@@ -3,7 +3,7 @@ function App() {
     <div className="min-h-screen bg-gray-50 p-6 flex items-center justify-center">
       <div className="w-full max-w-sm bg-gray-100 rounded-xl shadow-md p-6">
         <h1 className="text-2xl font-semibold text-gray-900">Card Title</h1>
-        <p className="mt-2 text-gray-700">
+        <p className="mt-2 text-base md:text-xl text-gray-700">
           This is a simple card component built with Tailwind CSS utility
           classes.
         </p>
